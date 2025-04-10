@@ -1,4 +1,4 @@
-# Yahoo-finance-scraping--RSA-
+# YF-RSA-SCRAPER
 Scraping RSA from yahoo finance
 
 In order for this program to run, please ensure that you have the selenium, bs4 (beautifulsoup), time, datetime, pandas, and openpyxl libraries.
